@@ -1,2 +1,3 @@
-# CIT262
+# CIT262 Final Project
+
 projects
